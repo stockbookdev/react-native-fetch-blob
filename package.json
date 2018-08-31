@@ -1,0 +1,79 @@
+{
+  "_from": "git+https://github.com/canhbg93/react-native-fetch-blob.git#exception_fixes",
+  "_id": "react-native-fetch-blob@0.10.8",
+  "_inBundle": false,
+  "_integrity": "sha1-Swvm5meNeNpwgIMB+90FZMYmX/w=",
+  "_location": "/react-native-fetch-blob",
+  "_phantomChildren": {
+    "fs.realpath": "1.0.0",
+    "inflight": "1.0.6",
+    "inherits": "2.0.3",
+    "minimatch": "3.0.4",
+    "once": "1.4.0",
+    "path-is-absolute": "1.0.1"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-fetch-blob@git+https://github.com/canhbg93/react-native-fetch-blob.git#exception_fixes",
+    "name": "react-native-fetch-blob",
+    "escapedName": "react-native-fetch-blob",
+    "rawSpec": "git+https://github.com/canhbg93/react-native-fetch-blob.git#exception_fixes",
+    "saveSpec": "git+https://github.com/canhbg93/react-native-fetch-blob.git#exception_fixes",
+    "fetchSpec": "https://github.com/canhbg93/react-native-fetch-blob.git",
+    "gitCommittish": "exception_fixes"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/canhbg93/react-native-fetch-blob.git#01f38a4537baecd3ea0cb93c27e84553f3fc5231",
+  "_spec": "react-native-fetch-blob@git+https://github.com/canhbg93/react-native-fetch-blob.git#exception_fixes",
+  "_where": "/Users/nxcanh/vnds/stockbookapp",
+  "author": {
+    "name": "wkh237",
+    "email": "xeiyan@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wkh237/react-native-fetch-blob/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ben",
+      "email": "benhsieh@catchplay.com"
+    },
+    {}
+  ],
+  "dependencies": {
+    "base-64": "0.1.0",
+    "glob": "7.0.6"
+  },
+  "deprecated": false,
+  "description": "A module provides upload, download, and files access API. Supports file stream read/write for process large files.",
+  "homepage": "https://github.com/wkh237/react-native-fetch-blob#readme",
+  "keywords": [
+    "react-native",
+    "fetch",
+    "blob",
+    "fs",
+    "upload",
+    "file",
+    "download",
+    "filestream",
+    "image header"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-fetch-blob",
+  "repository": {
+    "url": "git+https://github.com/wkh237/react-native-fetch-blob.git"
+  },
+  "rnpm": {
+    "commands": {
+      "prelink": "node ./node_modules/react-native-fetch-blob/scripts/prelink.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.10.8"
+}
